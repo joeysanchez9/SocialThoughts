@@ -1,0 +1,18 @@
+{
+  "name": "18-socialmodule",
+  "version": "1.0.1",
+  "description": "Instructor demo for CRUD operations in Mongoose on subdocuments",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
